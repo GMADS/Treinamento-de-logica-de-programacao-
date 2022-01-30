@@ -1,0 +1,13 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\obj\Debug\netcoreapp3.1\Calculo de perimetro e area.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\obj\Debug\netcoreapp3.1\Calculo de perimetro e area.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\obj\Debug\netcoreapp3.1\Calculo de perimetro e area.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\obj\Debug\netcoreapp3.1\Calculo de perimetro e area.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\bin\Debug\netcoreapp3.1\Calculo de perimetro e area.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\bin\Debug\netcoreapp3.1\Calculo de perimetro e area.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\bin\Debug\netcoreapp3.1\Calculo de perimetro e area.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\bin\Debug\netcoreapp3.1\Calculo de perimetro e area.runtimeconfig.dev.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\bin\Debug\netcoreapp3.1\Calculo de perimetro e area.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\bin\Debug\netcoreapp3.1\Calculo de perimetro e area.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\obj\Debug\netcoreapp3.1\Calculo de perimetro e area.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\obj\Debug\netcoreapp3.1\Calculo de perimetro e area.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinamento-de-logica-de-programacao-\Calculo de perimetro e area\obj\Debug\netcoreapp3.1\Calculo de perimetro e area.genruntimeconfig.cache
